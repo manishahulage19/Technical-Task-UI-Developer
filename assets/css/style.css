@@ -93,3 +93,4 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d4b9fe', end
     line-height: 1.3 !important;
 }.sidenav .navbar-brand{    padding: 1.5rem 2rem;
     height: 9.85rem;}.sidenav .navbar-brand i{ font-size:5rem;}
+    .borderRadius-100{ border-radius: 100%!important;}
