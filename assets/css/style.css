@@ -1,0 +1,36 @@
+.body-bg{
+background: linear-gradient(0.35turn, #d4b9fe, #e9f3ff, #7f5fc0);
+   position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0 solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.75rem;}
+    .mr--2{
+
+        margin-right: -32px;
+    }
+    .bg-purple{background:#7940c5;}
+    hr.red{ background:#ec4c49;  opacity: 1;
+        height: 2px;}
+    hr.purple{     background: #7940c5;
+        opacity: 1;
+        height: 2px;}
+        .text-head{
+            font-size:1.2rem;
+            color:#000; font-weight: 600;
+          
+        }
+    hr.success{background:#5bb25f;  opacity: 1;
+        height: 2px;}
+       p{color:rgb(12, 12, 12); letter-spacing: 1px; font-family: sans-serif;}
+       .card-header{width:85%}
+       .icon-bottom{
+        border-radius: 100%;
+            bottom: -25px;
+            right: 20px;
+        }
+        .no-radius{border-radius:0px!important;}
